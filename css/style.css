@@ -154,6 +154,14 @@
     font-weight: bold;
 }
 
+.content .download {
+    margin: 10px;
+    text-decoration: underline;
+    font-size: 20px;
+    color: rgb(230, 230, 230);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .separator {
     margin: 20px 0 20px 100px;
     height: 5px;
